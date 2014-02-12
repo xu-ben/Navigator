@@ -105,7 +105,7 @@ list.push({
 	name: "饿了么"
 });
 list.push({
-	url: "http://www.utao365.com/",
+	url: "http://www.4006365917.com/",
 	name: "悠淘网"
 });
 list.push({
@@ -168,7 +168,11 @@ list.push({
 	name: "新浪新闻"
 });
 list.push({
-	url: "http://web3.qq.com/",
+	url: "http://wx.qq.com/",
+	name: "微信网页版"
+});
+list.push({
+	url: "http://web.qq.com/",
 	name: "webqq"
 });
 list.push({
@@ -235,7 +239,7 @@ list.push({
 	name: "拓词"
 });
 list.push({
-	url: "http://bjfu.in/acmhome",
+	url: "http://acm.bjfu.edu.cn/acmhome",
 	name: "北林oj"
 });
 list.push({
@@ -457,7 +461,7 @@ list.push({
 	name: "本机ben"
 });
 list.push({
-	url: "http://bjfu.in/ben/",
+	url: "http://acm.bjfu.edu.cn/ben/",
 	name: "acm服务器"
 });
 list.push({
@@ -492,7 +496,7 @@ searchengine.push({
 	title: "谷歌学术搜索"
 });
 list.push({
-	url: "http://bjfu.in/acmhome",
+	url: "http://acm.bjfu.edu.cn/acmhome",
 	name: "北林oj"
 });
 list.push({
